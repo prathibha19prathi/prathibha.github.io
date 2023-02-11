@@ -1,4 +1,3 @@
-@@ -0,0 +1,80 @@
 /*!
 * Start Bootstrap - Stylish Portfolio v6.0.5 (https://startbootstrap.com/theme/stylish-portfolio)
 * Copyright 2013-2022 Start Bootstrap
