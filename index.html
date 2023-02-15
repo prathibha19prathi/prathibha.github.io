@@ -33,8 +33,8 @@
         <!-- Header-->
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
-                <h1 class="mb-1">Stylish Portfolio</h1>
-                <h3 class="mb-5"><em>A Free Bootstrap Theme by Start Bootstrap</em></h3>
+                <h1 class="mb-1">Welcome to my website!</h1>
+                <h3 class="mb-5"><em>Prathibha</em></h3>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
         </header>
@@ -43,7 +43,7 @@
             <div class="container px-4 px-lg-5 text-center">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-10">
-                        <h2>Stylish Portfolio is the perfect theme for your next project!</h2>
+                        <h2>Check out my awesome projects!</h2>
                         <p class="lead mb-5">
                             This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
                             <a href="https://unsplash.com/">Unsplash</a>
